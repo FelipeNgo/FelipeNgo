@@ -14,19 +14,6 @@
 
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2575fc/SEU_USUARIO" alt="Contribuições" />
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=2575fc" />
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6a11cb&label=VISITAS" />
-
-</div>
-
 ## 🚀 Projetos em destaque
 
 - **Analisador Léxico e Sintático**: verifica comandos Pascal com base em autômatos (C# e Python)
