@@ -18,7 +18,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Analisador Pascal (C#)](https://github.com/FelipeNgo/Analisador_Lexu) | Analisador Lexu feito em C# | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| [Analisador Pascal (C#)](https://github.com/FelipeNgo/Analisador-Lexu) | Analisador Lexu feito em C# | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 | [Outro projeto](https://github.com/SEU_USUARIO/OUTRO_REPO) | Descrição curta | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📫 Contato
