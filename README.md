@@ -24,12 +24,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eduardo-ramires)
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail%20pessoal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail pessoal" />
-</a>
-<a href="mailto:seunome@instituicao.edu.br">
-  <img src="https://img.shields.io/badge/E--mail%20institucional-2575fc?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail institucional" />
-</a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+[![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=feliperamires0022@gmail.com)
+[![Email Institucional](https://img.shields.io/badge/Email%20Institucional-2575fc?style=flat-square&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=f.ramires@aluno.ifsp.edu.br)
 
 </div>
