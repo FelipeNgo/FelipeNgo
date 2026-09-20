@@ -18,8 +18,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/2575fc/SEU_USUARIO" alt="Contribuições" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=2575fc" />
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6a11cb&label=VISITAS" />
 
 </div>
 
