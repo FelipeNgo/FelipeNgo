@@ -19,7 +19,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Analisador Pascal (C#)](https://github.com/FelipeNgo/Analisador-Lexu) | Analisador Lexu feito em C# | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| [Planeta Água — SNCT 2025](https://github.com/FelipeNgo/planeta-agua) | Programa em HTML/JS/CSS para controle de danos em aguas | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [Planeta Água — SNCT 2025](https://github.com/FelipeNgo/planeta-agua) | Site educativo sobre o papel dos oceanos no clima, com simulador de sensores de pH, turbidez e temperatura da água (SNCT 2025) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📫 Contato
 
