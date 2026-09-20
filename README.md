@@ -25,6 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eduardo-ramires)
 [![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=feliperamires0022@gmail.com)
-[![Email Institucional](https://img.shields.io/badge/Email%20Institucional-2575fc?style=flat-square&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=f.ramires@aluno.ifsp.edu.br)
+[![Email Institucional](https://img.shields.io/badge/Email%20Pessoal-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=f.ramires@aluno.ifsp.edu.br)
 
 </div>
