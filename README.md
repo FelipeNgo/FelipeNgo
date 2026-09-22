@@ -19,7 +19,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Analisador Pascal (C#)](https://github.com/FelipeNgo/Analisador-Lexu) | Analisador Léxico em C# | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| [Analisador Pascal (Python)](https://github.com/FelipeNgo/Analisador-Pascal-em-Python) | Analisador Sintático em Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Analisador Sintático Pascal (Python)](https://github.com/FelipeNgo/Analisador-Pascal-em-Python) | Analisador Sintático em Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [Planeta Água — SNCT 2025](https://github.com/FelipeNgo/planeta-agua) | Site educativo sobre o papel dos oceanos no clima, com simulador de sensores de pH, turbidez e temperatura da água (SNCT 2025) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📫 Contato
